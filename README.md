@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio
 
 Autor: Nadia Domínguez
 Fecha: 9 febrero 2022
